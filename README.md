@@ -1,19 +1,11 @@
-# fangyi
+### 基于Vue的文章管理系统
 
-## Project setup
-```
-npm install
-```
+接口地址：http://fanyi.xmint.cn/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+接口项目地址：https://github.com/XunMInt/articleNDR
 
-### Compiles and minifies for production
-```
-npm run build
-```
+项目演示地址：http://article.xmint.cn/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+演示账号：admin
+
+演示密码：123456
